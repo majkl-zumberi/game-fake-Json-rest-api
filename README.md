@@ -3,6 +3,9 @@ url for access REST api: http://my-json-server.typicode.com/majkl-zumberi/game-f
 
 You can use GET, POST, PUT, PATCH and DELETE. Changes aren't persisted between calls.
 
+# GET ENTIRE DB
+http://my-json-server.typicode.com/majkl-zumberi/game-fake-Json-rest-api/db
+
 # GET SINGLE GAME (id)
 http://my-json-server.typicode.com/majkl-zumberi/game-fake-Json-rest-api/games/1
 
