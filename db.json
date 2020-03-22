@@ -1,63 +1,63 @@
 {
   "games": [
     {
-      "appid": 362003,
+      "id": 362003,
       "name": "Grand Theft Auto V",
       "genere": "azione",
       "desc": "Un giovane truffatore, un rapinatore di banche in pensione e uno spaventoso psicopatico si ritrovano nel mirino degli elementi più discutibili del mondo della malavita, del governo e dell'industria dello spettacolo: per sopravvivere dovranno mettere in atto una serie di audaci colpi, in una città spietata dove non possono fidarsi di nessuno, men che meno gli uni degli altri.",
       "prezzo": "14,99"
     },
     {
-      "appid": 361770,
+      "id": 361770,
       "name": "Mortal Kombat: Legacy: Scorpion and Sub-Zero (Part 2)",
       "genere": "Picchiaduro",
       "desc": "Il gioco si svolge sull’isola fittizia di Shang Tsung nell’Earthrealm (trad. “Regno della Terra”). Sette luoghi di quest’isola sono stati utilizzati come scenari del gioco. L'introduzione di Mortal Kombat II spiega che Shang Tsung è stato bandito dall’Earthrealm 500 anni fa e, con l'aiuto del mostruoso Goro, è riuscito a prendere il controllo del torneo del Mortal Kombat, nel tentativo di condannare il regno.",
       "prezzo": "19,99"
     },
     {
-      "appid": 12150,
+      "id": 12150,
       "name": "Max Payne 2: The Fall of Max Payne",
       "genere": "Sparatutto in terza persona",
       "desc": "The Fall of Max Payne è una violenta storia d'amore noir. Scura, tragica e intensa, la profonda e appassionante storia è ricca di scioccanti intrecci e rivelazioni. L'amore fa male.",
       "prezzo": "9,99"
     },
     {
-      "appid": 218620,
+      "id": 218620,
       "name": "PAYDAY 2",
       "genere": "azione",
       "desc": "PAYDAY 2 è uno sparatutto cooperativo d'azione che permette a 4 giocatori di indossare i panni della famigerata Banda Payday, formata da Dallas, Hoxton, Wolf e Chains, e commettere rapine per tutta Washington DC.",
       "prezzo": "9,99"
     },
     {
-      "appid": 545270,
+      "id": 545270,
       "name": "NBA Playgrounds",
       "genere": "sport",
       "desc": "NBA 2K Playgrounds 2 porta la pallacanestro da strada a un livello superiore con una nuova modalità Stagione, un enorme roster di giocatori NBA attuali e ritirati, partite online per quattro giocatori, gare da 3, nuovi campetti e molto altro!",
       "prezzo": "29,99"
     },
     {
-      "appid": 81598,
+      "id": 81598,
       "name": "Call of Duty Modern Warfare 3",
       "genere": "azione",
       "desc": "Preparati ad una cinematografica corsa mozzafiato che solo Call of Duty può offrire. L'esperienza Multiplayer definitiva ritorna più ricca e migliore di sempre, carica di nuove mappe, modalità e caratteristiche. Le partite Cooperative si sono evolute con Operazioni Speciali e classifiche completamente nuove, come anche la modalità Sopravvivenza, un avanzare di combattimenti carichi d'azione mai visto prima.",
       "prezzo": "39,99"
     },
     {
-      "appid": 268910,
+      "id": 268910,
       "name": "Cuphead",
       "genere": "azione",
       "desc": "Cuphead è un classico action 'run and gun' fortemente incentrato sulle battaglie contro i boss. Ispirato ai cartoni animati degli anni '30",
       "prezzo": "19,99"
     },
     {
-      "appid": 444090,
+      "id": 444090,
       "name": "Paladins",
       "genere": "azione",
       "desc": "Paladins è ambientato in un vibrante mondo fantasy e presenta un cast variegato di campioni che vanno da tiri da tiro umani a folletti con mech, elfi mistici e draghi vestiti di jetpack. Ogni campione porta un set unico di abilità sul campo di battaglia e nuovi campioni vengono regolarmente aggiunti a Paladini, mantenendo il gioco emozionante.",
       "prezzo": "free to play"
     },
     {
-      "appid": 292030,
+      "id": 292030,
       "name": "The Witcher 3: Wild Hunt",
       "genere": "GDR",
       "desc": "Mentre la guerra imperversa nei Regni Settentrionali, accetterai il contratto più importante della tua vita: rintracciare la Figlia della Profezia, un'arma vivente che può alterare il destino del mondo.",
