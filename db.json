@@ -1,67 +1,89 @@
 {
   "games": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Grand Theft Auto V",
-      "genere": "azione",
+      "genereId": "2",
       "desc": "Un giovane truffatore, un rapinatore di banche in pensione e uno spaventoso psicopatico si ritrovano nel mirino degli elementi più discutibili del mondo della malavita, del governo e dell'industria dello spettacolo: per sopravvivere dovranno mettere in atto una serie di audaci colpi, in una città spietata dove non possono fidarsi di nessuno, men che meno gli uni degli altri.",
-      "prezzo": "14,99"
+      "prezzo": "14.99"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Mortal Kombat: Legacy: Scorpion and Sub-Zero (Part 2)",
-      "genere": "Picchiaduro",
+      "genereId": "4",
       "desc": "Il gioco si svolge sull’isola fittizia di Shang Tsung nell’Earthrealm (trad. “Regno della Terra”). Sette luoghi di quest’isola sono stati utilizzati come scenari del gioco. L'introduzione di Mortal Kombat II spiega che Shang Tsung è stato bandito dall’Earthrealm 500 anni fa e, con l'aiuto del mostruoso Goro, è riuscito a prendere il controllo del torneo del Mortal Kombat, nel tentativo di condannare il regno.",
-      "prezzo": "19,99"
+      "prezzo": "19.99"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Max Payne 2: The Fall of Max Payne",
-      "genere": "Sparatutto in terza persona",
+      "genereId": "5",
       "desc": "The Fall of Max Payne è una violenta storia d'amore noir. Scura, tragica e intensa, la profonda e appassionante storia è ricca di scioccanti intrecci e rivelazioni. L'amore fa male.",
-      "prezzo": "9,99"
+      "prezzo": "9.99"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "PAYDAY 2",
-      "genere": "azione",
+      "genereId": "2",
       "desc": "PAYDAY 2 è uno sparatutto cooperativo d'azione che permette a 4 giocatori di indossare i panni della famigerata Banda Payday, formata da Dallas, Hoxton, Wolf e Chains, e commettere rapine per tutta Washington DC.",
-      "prezzo": "9,99"
+      "prezzo": "9.99"
     },
     {
       "id": 5,
       "name": "NBA Playgrounds",
-      "genere": "sport",
+      "genereId": "3",
       "desc": "NBA 2K Playgrounds 2 porta la pallacanestro da strada a un livello superiore con una nuova modalità Stagione, un enorme roster di giocatori NBA attuali e ritirati, partite online per quattro giocatori, gare da 3, nuovi campetti e molto altro!",
-      "prezzo": "29,99"
+      "prezzo": "29.99"
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Call of Duty Modern Warfare 3",
-      "genere": "azione",
+      "genereId": "2",
       "desc": "Preparati ad una cinematografica corsa mozzafiato che solo Call of Duty può offrire. L'esperienza Multiplayer definitiva ritorna più ricca e migliore di sempre, carica di nuove mappe, modalità e caratteristiche. Le partite Cooperative si sono evolute con Operazioni Speciali e classifiche completamente nuove, come anche la modalità Sopravvivenza, un avanzare di combattimenti carichi d'azione mai visto prima.",
-      "prezzo": "39,99"
+      "prezzo": "39.99"
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Cuphead",
-      "genere": "azione",
+      "genereId": "2",
       "desc": "Cuphead è un classico action 'run and gun' fortemente incentrato sulle battaglie contro i boss. Ispirato ai cartoni animati degli anni '30",
-      "prezzo": "19,99"
+      "prezzo": "19.99"
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "Paladins",
-      "genere": "azione",
+      "genereId": "2",
       "desc": "Paladins è ambientato in un vibrante mondo fantasy e presenta un cast variegato di campioni che vanno da tiri da tiro umani a folletti con mech, elfi mistici e draghi vestiti di jetpack. Ogni campione porta un set unico di abilità sul campo di battaglia e nuovi campioni vengono regolarmente aggiunti a Paladini, mantenendo il gioco emozionante.",
       "prezzo": "free to play"
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "The Witcher 3: Wild Hunt",
-      "genere": "GDR",
+      "genereId": "1",
       "desc": "Mentre la guerra imperversa nei Regni Settentrionali, accetterai il contratto più importante della tua vita: rintracciare la Figlia della Profezia, un'arma vivente che può alterare il destino del mondo.",
-      "prezzo": "29,99"
+      "prezzo": "29.99"
+    }
+  ],
+  "genres":[
+    {
+      "id":"1",
+      "name":"GDR"
+    },
+    {
+      "id":"2",
+      "name":"azione"
+    },
+    {
+      "id":"3",
+      "name":"sport"
+    },
+    {
+      "id":"4",
+      "name":"Picchiaduro"
+    },
+    {
+      "id":"5",
+      "name":"Sparatutto in terza persona"
     }
   ]
 }
